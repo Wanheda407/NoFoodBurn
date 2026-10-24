@@ -74,7 +74,10 @@
     <Compile Include="AutoEjectOven.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="CHANGELOG.md" />
+    <None Include="README.md" />
+  </ItemGroup>
   <ItemGroup>
     <Content Include="refs\0Harmony.dll" />
     <Content Include="refs\assembly_utils.dll" />
