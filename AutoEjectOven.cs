@@ -9,7 +9,7 @@ namespace AutoEjectOven
     {
         public const string PluginGUID = "com.hunter.autoejectoven";
         public const string PluginName = "Auto Eject Oven";
-        public const string PluginVersion = "0.0.1.0";
+        public const string PluginVersion = "1.0.0";
 
         private readonly Harmony harmony = new Harmony(PluginGUID);
 
