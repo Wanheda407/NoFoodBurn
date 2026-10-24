@@ -1,6 +1,6 @@
 {
   "name": "AutoEjectOven",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "website_url": "https://github.com/Wanheda407/AutoEjectOven",
   "description": "Automatically ejects food from ovens when fully cooked",
   "dependencies": [
