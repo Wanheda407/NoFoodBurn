@@ -1,0 +1,9 @@
+{
+  "name": "AutoEjectOven",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Automatically ejects food from ovens when fully cooked",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2351"
+  ]
+}
