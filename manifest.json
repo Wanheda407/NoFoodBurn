@@ -1,8 +1,8 @@
 {
-  "name": "AutoEjectOven",
-  "version_number": "1.0.1",
-  "website_url": "https://github.com/Wanheda407/AutoEjectOven",
-  "description": "Automatically ejects food from ovens when fully cooked",
+  "name": "NoFoodBurn",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Wanheda407/NoFoodBurn",
+  "description": "Prevents food from burning regardless of where it gets cooked",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.2351"
   ]
