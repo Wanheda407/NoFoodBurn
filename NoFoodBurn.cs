@@ -8,7 +8,7 @@ namespace NoFoodBurn
     {
         public const string PluginGUID = "com.wanheda.NoFoodBurn";
         public const string PluginName = "Anti-Burn Cooking Station";
-        public const string PluginVersion = "1.0.0";
+        public const string PluginVersion = "1.0.1";
 
         private readonly Harmony harmony = new Harmony(PluginGUID);
 
