@@ -22,7 +22,7 @@ The mod provides several configuration options to customize its behavior:
 1. Download the latest .zip from the releases section.
 2. Navigate to the import mod section of your mod manager and select the .zip file you downloaded.
 	- Usually in settings somewhere.
-		- r2modman: Settings > Profile > Import Local Mod\
+		- r2modman: Settings > Profile > Import Local Mod
 
 ##### If you install the mod from the .dll or .zip you will need to update the mod manually when a new version is released. If you install the mod from a mod manager search, it will handle updates for you.
 
