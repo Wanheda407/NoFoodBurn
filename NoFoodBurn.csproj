@@ -7,8 +7,8 @@
     <ProjectGuid>{9459213A-DCF2-4327-AB41-F0733958F9AC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AutoEjectOven</RootNamespace>
-    <AssemblyName>AutoEjectOven</AssemblyName>
+    <RootNamespace>NoFoodBurn</RootNamespace>
+    <AssemblyName>NoFoodBurn</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
