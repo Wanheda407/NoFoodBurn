@@ -34,4 +34,4 @@ The mod provides several configuration options to customize its behavior:
 5. Copy the resulting .dll from `NoFoodBurn\build\Release` to your Valheim `BepInEx/plugins` folder.
 
 ## Contributing
-Any contributions to this project are welcome. If you would like to contribute, please fork the repository and submit a pull request. 
+Any contributions to this project are welcome. If you would like to contribute, please fork the repository on Github and submit a pull request. 
