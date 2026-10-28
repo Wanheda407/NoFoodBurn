@@ -1,6 +1,6 @@
 {
   "name": "NoFoodBurn",
-  "version_number": "1.1.0",
+  "version_number": "1.1.1",
   "website_url": "https://github.com/Wanheda407/NoFoodBurn",
   "description": "Prevents food from burning regardless of where it gets cooked",
   "dependencies": [

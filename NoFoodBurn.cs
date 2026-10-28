@@ -9,7 +9,7 @@ namespace NoFoodBurn
     {
         public const string PluginGUID = "com.wanheda.nofoodburn";
         public const string PluginName = "No Food Burn";
-        public const string PluginVersion = "1.1.0";
+        public const string PluginVersion = "1.1.1";
 
         public static ConfigEntry<bool> EnableWoodenStation;
         public static ConfigEntry<bool> EnableIronStation;
