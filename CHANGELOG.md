@@ -1,3 +1,6 @@
+### 1.1.1 - 10/28/2026
+- Upgrade BepInEx requirement to 5.4.2360
+
 ### 1.1.0 - 10/25/2026
 - Added support for modded cooking stations
 - Added configuration options
