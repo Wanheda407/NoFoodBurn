@@ -1,16 +1,21 @@
 # NoFoodBurn
-This mod is designed to enhance the cooking experience in Valheim by ensuring that food is never burned and turned into coal. This mod works for any
-place where food needs to be cooked, including ovens, and modded cooking stations. It is compatible with all food types, including modded ones.
+This mod is designed to enhance the cooking experience in Valheim by ensuring that food is never burned and turned into coal.
+Also adds a sound notification when food is finished cooking. This mod works for any place where food needs to be cooked, including ovens, and modded cooking stations.
+It is compatible with all food types, including modded ones.
 
 ## Configuration
 The mod provides several configuration options to customize its behavior:
 
-| Option | Description |
-|--------|-------------|
-| `EnableWoodenStation` | Toggles anti-burn protection for wooden cooking stations. |
-| `EnableIronStation` | Toggles anti-burn protection for iron cooking stations. |
-| `EnableStoneOven` | Toggles anti-burn protection for stone ovens. |
-| `EnableModdedStations` | Toggles anti-burn protection for modded cooking stations. |
+| Option | Description | Default Value |
+|--------|-------------|---------------|
+| `EnableWoodenStation` | Toggles anti-burn protection for wooden cooking stations. | `true` |
+| `EnableIronStation` | Toggles anti-burn protection for iron cooking stations. | `true` |
+| `EnableStoneOven` | Toggles anti-burn protection for stone ovens. | `true` |
+| `EnableModdedStations` | Toggles anti-burn protection for modded cooking stations. | `true` |
+| `EnableSoundNotification` | Toggles sound notifications when food is finished cooking. | `true` |
+| `SoundMaxPlayCount` | Sets the number of times the sound notification will play. | `3` |
+| `SoundRepeatInterval` | Sets the delay in seconds between repeated sound notifications. | `5.0` |
+| `SoundPrefabName` | Sets the name of the built-in Valheim sound effect to play. | `sfx_ping` |
 
 ## Install
 ###### Using a Mod Manager to search for the mod is recommended, but you can also install manually.
