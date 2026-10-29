@@ -1,9 +1,9 @@
 {
   "name": "NoFoodBurn",
-  "version_number": "1.1.1",
+  "version_number": "1.2.0",
   "website_url": "https://github.com/Wanheda407/NoFoodBurn",
   "description": "Prevents food from burning regardless of where it gets cooked",
   "dependencies": [
-    "denikson-BepInExPack_Valheim-5.4.2351"
+    "denikson-BepInExPack_Valheim-5.4.2360"
   ]
 }
