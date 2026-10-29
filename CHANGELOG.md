@@ -1,3 +1,9 @@
+### 1.2.0 - 10/28/2026
+- Added sound notifications when food is finished cooking
+- Added new config options for sound notifications
+	- Number of times to play the sound
+	- Time between sound notifications
+
 ### 1.1.1 - 10/28/2026
 - Upgrade BepInEx requirement to 5.4.2360
 
