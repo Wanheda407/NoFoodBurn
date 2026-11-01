@@ -15,7 +15,7 @@ The mod provides several configuration options to customize its behavior:
 | `EnableSoundNotification` | Toggles sound notifications when food is finished cooking. | `true` |
 | `SoundMaxPlayCount` | Sets the number of times the sound notification will play. | `3` |
 | `SoundRepeatInterval` | Sets the delay in seconds between repeated sound notifications. | `5.0` |
-| `SoundPrefabName` | Sets the name of the built-in Valheim sound effect to play. | `sfx_ping` |
+| `SoundPrefabName` | Sets the name of the built-in Valheim sound effect to play. | `sfx_gui_craftitem` |
 
 ## Install
 ###### Using a Mod Manager to search for the mod is recommended, but you can also install manually.
