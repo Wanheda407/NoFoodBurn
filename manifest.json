@@ -2,7 +2,7 @@
   "name": "NoFoodBurn",
   "version_number": "1.2.0",
   "website_url": "https://github.com/Wanheda407/NoFoodBurn",
-  "description": "Prevents food from burning regardless of where it gets cooked",
+  "description": "Prevents food from burning regardless of where it gets cooked, also plays a sound when food is finished cooking",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.2360"
   ]
